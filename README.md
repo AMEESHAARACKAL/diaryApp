@@ -2,8 +2,8 @@
 A Simple DiaryApp where you can jot down your memories
 
 ## Team members
-1. [N ANBARASU](https://github.com/AMEESHAARACKAL)
-2. [Muhammed Roshan]
+1. [Ameesha Arackal](https://github.com/AMEESHAARACKAL)
+2. Muhammed Roshan
 3. Muhammed Ansal
 4. Amal Santhosh
 

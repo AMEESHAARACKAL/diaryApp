@@ -2,8 +2,10 @@
 A Simple DiaryApp where you can jot down your memories
 
 ## Team members
-1. [N ANBARASU](https://github.com/DarkPhoenix2704)
-2. [VYSHNAV KS](https://github.com/Vyshnav-KS)
+1. [N ANBARASU](https://github.com/AMEESHAARACKAL)
+2. [Muhammed Roshan]
+3. Muhammed Ansal
+4. Amal Santhosh
 
 ## Team Id
 Node js / 19
